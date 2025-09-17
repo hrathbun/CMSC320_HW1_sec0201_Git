@@ -9,3 +9,7 @@ Answer: Medicine, AI can be used for disease diagnosis.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: merging preserves the original history, while rebasing rewrites it
+
+Q4: What are you looking forward to this semester?
+
+Answer: Good grades
