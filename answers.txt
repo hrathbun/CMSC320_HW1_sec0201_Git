@@ -1,4 +1,3 @@
-
 Q1: Why might we consider using Git?
 
 Answer: So that we can collaborate with others on a project in an orderly fashion 
@@ -7,3 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Medicine, AI can be used for disease diagnosis.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging preserves the original history, while rebasing rewrites it
